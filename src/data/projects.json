@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Transfer Equivalency Portal",
+        "description" : " A portal for old dominion university providing course by course equivalency credits.",
+        "link" : "https://github.com/saikiransangam/transfer-equivalency-"
+    },
+    {
+        "name" : "DevMeet",
+        "description" : "DevMeet is a social network  MERN stack application for developers.",
+        "link" : "https://github.com/saikiransangam/DevMeet"
+    },
+    {
+        "name" : " Digital Library Search",
+        "description" : "Digital Library is a search engine application containing thesis and dissertation.",
+        "link" : "https://github.com/saikiransangam/Digital-Library"
+    },
+    {
+        "name" : " New York Airbnb Analysis",
+        "description" : "The New York Airbnb analysis, data collection, data cleaning, exploratory data analysis, data modeling, modeling on price data, model evaluation, predicted the sale price and applied sentiment analysis on reviews. MAE : 29.97 |  MSE : 14.41 |  R2 score: 0.37",
+        "link" : "https://github.com/saikiransangam/Airbnb-Data-Analysis"
+    },
+    {
+        "name" : "Self-training with noisy student improves ImageNet classification",
+        "description" : "Noisy student training, a semi-supervised learning approach. It extends the idea of self-training and distillation with the use of equal-or-larger student models and noise added to the student during learning. Noisy student training achieves 88.4% top-1 accuracy on ImageNet, which is 2.0% better than the state-of-the-art model that requires labeled instagram images. This approach not only surpasses the top1 ImageNet accuracy of SOTA models by 1%, its robustness of a model also improves.",
+        "link" : "https://github.com/saikiransangam/CS-722-Machine-Learning-Project"
+    }
+]
